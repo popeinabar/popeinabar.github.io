@@ -79466,7 +79466,7 @@ pB(){var s=0,r=A.V(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$pB=A.W(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.a_(A.aGq(A.h7("http://worldtimeapi.org/api/timezone/"+o.d)),$async$pB)
+return A.a_(A.aGq(A.h7("https://worldtimeapi.org/api/timezone/"+o.d)),$async$pB)
 case 6:n=b
 if(n.b===200){e=n
 m=B.cy.P4(0,A.aGa(A.aE3(e.e).c.a.h(0,"charset")).f1(0,e.w),null)
